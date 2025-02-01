@@ -13,12 +13,15 @@ I’m not an expert in OpenFOAM—far from it. Creating these lessons is also a 
 
  ### Special thanks to the following open-source tools used in this project:
 
-<ul>
-    <li><strong>Ubuntu</strong> - Linux distribution (release- 24.04) </li>
-    <li><strong>OpenFOAM</strong> - Open-source CFD software developed by OpenCFD Ltd </li>
-    <li><strong>pyFoam</strong> - A python library to control OpenFOAM-runs and manipulate OpenFOAM-data</li>
-    <li><strong>ParaView</strong> - Open-source software for data analysis and visualization</li>
-    <li><strong>GnuPlot</strong> - Command-driven interactive plotting program</li>
-    <li><strong>gedit</strong> - Text editor for Linux and Unix-based systems</li>
-    <li><strong>Inkscape</strong> - Vector graphics editor for creating illustrations</li>
-</ul>
+- **Ubuntu** – Linux distribution (release- 24.04)
+- **OpenFOAM** – Open-source CFD software developed by OpenCFD Ltd
+- **pyFoam** – A Python library to control OpenFOAM runs and manipulate OpenFOAM data
+- **ParaView** – Open-source software for data analysis and visualization
+- **GnuPlot** – Command-driven interactive plotting program
+- **gedit** – Text editor for Linux and Unix-based systems
+- **Inkscape** – Vector graphics editor for creating illustrations
+
+<hr>
+
+### Disclaimer
+This course is distributed in the hope that it is useful. This offering is not approved or endorsed by OpenCFD Limited, the producer of the OpenFOAM software and owner of the OPENFOAM® and OpenCFD® trade marks.
