@@ -2,6 +2,19 @@
 
 # 
 
+Welcome to the notes for the "OpenFoam Guide" course!
+
+These notes are for learners following along with the course and are meant to summarize key points and concepts.
+
+## Course Information
+
+- **Course Name**: OpenFoam Guide
+- **Instructor**: Muhammed Magid
+- **Platform**: YouTube
+- **Course Link**: [OpenFoam Guide](https://www.youtube.com/playlist?list=PLNqD6XOg2ZIBEAbayC4BMY5d_rVfltqwE) 
+
+<hr>
+
 For years, I’ve been an advocate for free and open-source software (FOSS). About one year ago, I began using OpenFOAM to dive into the world of Computational Fluid Dynamics (CFD). Now, I want to share what I’ve learned, hoping these lessons can reach and benefit more people.
 
 I’m not an expert in OpenFOAM—far from it. Creating these lessons is also a way for me to improve my own understanding. Teaching is a great way to learn, and I hope this journey inspires others to explore and grow with tools like OpenFOAM.
