@@ -199,7 +199,7 @@ The **blocks** section defines how to divide the geometry into smaller cells (he
 
 The **edges** section is used if there are curved edges in the domain. In this case, it is left empty because we are working with a simple rectangular mesh where all edges are straight.
 
-## Boundary Conditions
+##### Boundary Conditions
 
 The **boundary** section defines the conditions on the domain boundaries:
 
